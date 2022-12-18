@@ -43,3 +43,42 @@ int num = Convert.ToInt32(Console.ReadLine());
 if (num %2 == 0) Console.WriteLine("The number is even.");
 else Console.WriteLine("The number is odd");
 */
+
+//Задача 4. Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+/*
+Console.Write("Input a number: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+int current = 1;
+
+while (current <= num) 
+{
+    if (current %2 == 0)
+    Console.Write(current + " ");
+    current += 1;
+}*/
+
+/*
+Console.Write("Input a number: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+int current = 1;
+
+if (num > 1)
+{
+    while (current <= num) 
+    {
+        if (current %2 == 0)
+        Console.Write(current + " ");
+        current += 1;
+    }
+}
+else
+{
+    while (current >= num) 
+    {
+        if (current %2 == 0)
+        Console.Write(current + " ");
+        current -= 1;
+    }
+}     */
