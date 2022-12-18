@@ -1,0 +1,15 @@
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\bin\Debug\net6.0\TaskAboutDog.exe
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\bin\Debug\net6.0\TaskAboutDog.deps.json
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\bin\Debug\net6.0\TaskAboutDog.runtimeconfig.json
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\bin\Debug\net6.0\TaskAboutDog.dll
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\bin\Debug\net6.0\TaskAboutDog.pdb
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\obj\Debug\net6.0\TaskAboutDog.csproj.AssemblyReference.cache
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\obj\Debug\net6.0\TaskAboutDog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\obj\Debug\net6.0\TaskAboutDog.AssemblyInfoInputs.cache
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\obj\Debug\net6.0\TaskAboutDog.AssemblyInfo.cs
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\obj\Debug\net6.0\TaskAboutDog.csproj.CoreCompileInputs.cache
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\obj\Debug\net6.0\TaskAboutDog.dll
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\obj\Debug\net6.0\refint\TaskAboutDog.dll
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\obj\Debug\net6.0\TaskAboutDog.pdb
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\obj\Debug\net6.0\TaskAboutDog.genruntimeconfig.cache
+D:\Обучение ИТ\Практические занятия\Тема 3_Знакомство с языками программирования\Homework\TaskAboutDog\obj\Debug\net6.0\ref\TaskAboutDog.dll
