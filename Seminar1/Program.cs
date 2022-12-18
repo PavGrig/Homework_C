@@ -1,12 +1,4 @@
 ﻿//Задача 1. Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
-
-/*Console.Write("Input a first number: ");
-int num1 = Convert.ToInt32(Console.ReadLine());
-Console.Write("Input a second number: ");
-int num2 = Convert.ToInt32(Console.ReadLine());
-
-if (num1 > num2) Console.WriteLine ("The first number is greater than the second number");
-else Console.WriteLine ("The second number is greater than the first number");*/
 /*
 Console.Write("Input a first number: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
@@ -41,10 +33,12 @@ Console.Write("Input a number: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
 if (num %2 == 0) Console.WriteLine("The number is even.");
-else Console.WriteLine("The number is odd");
+else Console.WriteLine("The number is odd.");
 */
 
 //Задача 4. Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+//Вариант 1. N всегда больше 0.
 /*
 Console.Write("Input a number: ");
 int num = Convert.ToInt32(Console.ReadLine());
@@ -58,13 +52,14 @@ while (current <= num)
     current += 1;
 }*/
 
+//Вариант 2. N может быть любым числом (положительным или отрицательным).
 /*
 Console.Write("Input a number: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
 int current = 1;
 
-if (num > 1)
+if (num > 0)
 {
     while (current <= num) 
     {
