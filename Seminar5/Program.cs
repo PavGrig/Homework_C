@@ -74,7 +74,7 @@ int SumAllOddArrayPosition(int[] array)
 Console.WriteLine("The sum of the numbers of each odd position of the array = " + SumAllOddArrayPosition(array));*/
 
 //Задача 3. Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
-
+/*
 double[] CreateRandomArray(int size, int minvalue, int maxvalue)
 {
     double[] array = new double[size];
@@ -119,4 +119,4 @@ double DiffMaxMinElemArray(double[] array)
     return result;
 }
 
-Console.WriteLine("The difference between the maximum and minimum array element = " + DiffMaxMinElemArray(array));
+Console.WriteLine("The difference between the maximum and minimum array element = " + DiffMaxMinElemArray(array));*/
